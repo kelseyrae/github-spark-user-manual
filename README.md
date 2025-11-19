@@ -1,8 +1,8 @@
 # 📖 GitHub Spark User Manual
 
-Welcome! 👋 This is the user manual for [GitHub Spark](https://gh.io/spark), an experiment by [GitHub Next](https://githubnext.com). GitHub Spark is an AI-powered tool for creating and sharing micro apps (“sparks”), which can be tailored to your exact needs and preferences, and are directly usable from your desktop and mobile devices. **Without needing to write or deploy any code.** ✨
+Welcome! 👋 This was the user manual for the technical preview of GitHub Spark, an experiment by [GitHub Next](https://githubnext.com). **The new and improved [GitHub Spark](https://github.com/spark) has been released in Public Preview for all Copilot Pro+ and Copilot Enterprise customers, expanding to additional customer segments soon. Information in this wiki is out of date and only related to the old technical preview experience. For the latest tips on the new version of Spark please [see our documentation here](https://docs.github.com/en/copilot/concepts/spark).**
 
-If you'd like to learn more about GitHub Spark, you can check out its [project page](https://githubnext.com/projects/github-spark/), or review any of the resources outlined below.
+If you'd like to learn more about the original technical preview of GitHub Spark, you can check out its [project page](https://githubnext.com/projects/github-spark/), or review any of the resources outlined below.
 
 ## Table of Contents
 
